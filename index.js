@@ -8,7 +8,7 @@ function theBeatlesPlay(a,b){
 }
 
 function johnLennonFacts(c){
- j =0;
+ var j =0;
   while(j<c.length){
     c[j] = c[j] + "!!!"
     j++;
