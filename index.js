@@ -6,3 +6,12 @@ function theBeatlesPlay(a,b){
   }
   return form
 }
+
+function johnLennonFacts(c){
+ j =0;
+  while(j<c.length){
+    c[j] = c[j] + "!!!"
+    j++;
+  }
+  return c;
+}
