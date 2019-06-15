@@ -19,5 +19,5 @@ function johnLennonFacts(c){
 function iLoveTheBeatles(d){
   var store = [];
   var k = 0;
-  if(d)
+  if(d<15){}
 }
