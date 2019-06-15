@@ -4,4 +4,5 @@ function theBeatlesPlay(a,b){
   for(var i =0;i<a.length;i++){
     form[i] = a[i] + " plays "+ b[i];
   }
+  return form
 }
